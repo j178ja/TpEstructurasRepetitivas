@@ -21,6 +21,18 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Ejercicio10\ejercicio10.py" />
+    <Compile Include="Ejercicio1\ejercicio1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Ejercicio2\ejercicio2.py" />
+    <Compile Include="Ejercicio3\ejercicio3.py" />
+    <Compile Include="Ejercicio4\ejercicio4.py" />
+    <Compile Include="Ejercicio5\ejercicio5.py" />
+    <Compile Include="Ejercicio6\ejercicio6.py" />
+    <Compile Include="Ejercicio7\ejercicio7.py" />
+    <Compile Include="Ejercicio8\ejercicio8.py" />
+    <Compile Include="Ejercicio9\ejercicio9.py" />
     <Compile Include="TpEstructurasRepetitivas.py" />
   </ItemGroup>
   <ItemGroup>
